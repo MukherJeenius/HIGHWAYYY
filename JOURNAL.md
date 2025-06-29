@@ -36,6 +36,7 @@ Here is my PCB:
 ![image](https://github.com/user-attachments/assets/9fa7c3c9-fbd9-43c0-b2c2-4b264a08913c)
 
 
+
 ![image](https://github.com/user-attachments/assets/67382dc1-c063-4f68-9f61-275f06969f2c)
 jjyI precisely I hit some roadblocks with the dfx file while using ai03 website plate converter and also had issues with the 3d designing since it was the first time using fusion 360!! 
 
