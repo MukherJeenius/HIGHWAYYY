@@ -10,6 +10,7 @@ Schematic and PCB
 
 ![image](https://github.com/user-attachments/assets/dd513ccf-f16b-4f52-a9e5-fef80ccc1770)
 
+![image](https://github.com/user-attachments/assets/108ac9ec-e673-4586-b2b3-87d76472270f)
 
 
 
