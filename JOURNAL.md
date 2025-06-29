@@ -5,7 +5,7 @@ description: League of Legends Ability Keys
 created_at: 2025-06--027
 ---
 
-Total: 10hrs
+Total: 12hrs
 
 
 06/27/25:
@@ -39,6 +39,20 @@ Here is my PCB:
 
 ![image](https://github.com/user-attachments/assets/67382dc1-c063-4f68-9f61-275f06969f2c)
 jjyI precisely I hit some roadblocks with the dfx file while using ai03 website plate converter and also had issues with the 3d designing since it was the first time using fusion 360!! 
+
+FINAL DAY: I was told that I needed to add either an OLED or a Rotary Coder. So I went back to my kicad and added a 3d model of the rotary coder. Then I exported that to my Fusion. Where I had to a lot of measuring to get accurate dimensions. I also organized my files and folders. Here are the final results.
+
+![image](https://github.com/user-attachments/assets/19a1d9c7-9f99-4116-b24a-d3641e3769fa)
+
+![image](https://github.com/user-attachments/assets/2f6eed74-feec-4957-9609-cd0e84aff7a7)
+
+![image](https://github.com/user-attachments/assets/e2ef3792-62ee-4288-b886-cfcfc50e7700)
+
+Bottom of the case did not need any changes: 
+![image](https://github.com/user-attachments/assets/8d22ac0d-1400-4fe5-ae47-466d401f22dd)
+
+
+
 
 
 
