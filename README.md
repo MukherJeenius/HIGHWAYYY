@@ -8,6 +8,7 @@ Schematic and PCB
 ![image](https://github.com/user-attachments/assets/560f1536-0581-4390-b044-a0aba7561a69)
 ![image](https://github.com/user-attachments/assets/8b733bc9-f7eb-4c09-83e6-c892e8c17ff2)
 ![image](https://github.com/user-attachments/assets/30fd1259-c5f8-4161-9531-238f4a629266)
+![image](https://github.com/user-attachments/assets/68f19cf7-7117-45f5-b25b-66aef533ee28)
 
 
 ![image](https://github.com/user-attachments/assets/3b16a960-43b5-4d48-a322-2ffda8109ba6)
