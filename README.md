@@ -12,6 +12,7 @@ Schematic and PCB
 
 ![image](https://github.com/user-attachments/assets/108ac9ec-e673-4586-b2b3-87d76472270f)
 
+![image](https://github.com/user-attachments/assets/3b16a960-43b5-4d48-a322-2ffda8109ba6)
 
 
 # COMPONENTS
