@@ -1,0 +1,40 @@
+import board
+from kmk.kmk_keyboard import KMKKeyboard
+from kmk.scanners.keypad import KeysScanner
+from kmk.keys import KC
+from kmk.extensions.encoder import EncoderHandler
+
+keyboard = KMKKeyboard()
+
+# ----- Key Pins -----
+KEY_PINS = [board.D3, board.D4, board.D2, board.D1]  # Adjust to your GPIO layout
+
+# ----- Key Matrix -----
+keyboard.matrix = KeysScanner(
+    pins=KEY_PINS,
+    value_when_pressed=False,
+)
+
+# ----- Rotary Encoder Setup -----
+encoder = EncoderHandler()
+keyboard.extensions.append(encoder)
+
+# Connect encoder CLK to D5, DT to D6
+keyboard.encoders = [
+    # Format: (pin_A, pin_B, (Clockwise, Counter-Clockwise))
+    ((board.D5, board.D6, (KC.VOLU, KC.VOLD))),
+]
+
+# ----- Keymap -----
+keyboard.keymap = [
+    [
+        KC.Q,  # Top-left key
+        KC.W,  # Top-right key
+        KC.E,  # Bottom-left key
+        KC.R,  # Bottom-right key
+    ]
+]
+
+# ----- Run the Keyboard -----
+if __name__ == '__main__':
+    keyboard.go()
