@@ -4,13 +4,11 @@ Whether I'm throwing out skillshots or pulling off a clean combo, this board giv
 
 Schematic and PCB
 
-![image](https://github.com/user-attachments/assets/3a461b81-594c-4602-8864-06533391c8d2)
+![image](https://github.com/user-attachments/assets/07a847c2-0b98-464d-9752-636e0f618fea)
+![image](https://github.com/user-attachments/assets/560f1536-0581-4390-b044-a0aba7561a69)
+![image](https://github.com/user-attachments/assets/8b733bc9-f7eb-4c09-83e6-c892e8c17ff2)
+![image](https://github.com/user-attachments/assets/30fd1259-c5f8-4161-9531-238f4a629266)
 
-![image](https://github.com/user-attachments/assets/d68962a6-da88-4ea7-ad14-2616641be899)
-
-![image](https://github.com/user-attachments/assets/dd513ccf-f16b-4f52-a9e5-fef80ccc1770)
-
-![image](https://github.com/user-attachments/assets/108ac9ec-e673-4586-b2b3-87d76472270f)
 
 ![image](https://github.com/user-attachments/assets/3b16a960-43b5-4d48-a322-2ffda8109ba6)
 
